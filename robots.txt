@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://wdiscovery011.github.io/mahjongwaysdemo/mahjong-ways-demo-5-teknologi-canggih-yang-akan-mengubah-dunia-di-tahun-2025.html/sitemap.xml
+Sitemap: https://wdiscovery011.github.io/mahjongwaysdemo/sitemap.xml
